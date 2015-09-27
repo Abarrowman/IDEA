@@ -1,4 +1,3 @@
-#build products
-*.swf
+src/*.swf
+src/*/*.swf
 *.db
-build/*
