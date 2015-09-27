@@ -1,2 +1,4 @@
 #build products
 *.swf
+*.db
+build/*
