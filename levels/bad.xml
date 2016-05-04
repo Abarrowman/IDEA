@@ -1,0 +1,1 @@
+<Level><Settings gravity='1' health='100' time='120' weapons='1' goals='1' goalsyn='false' timelimit='false' /><Platform x='-50' y='-60' endx='-52' endy='16' /><BadShip x='-172' y='-42' horn='true' smart='false' /><Platform x='-52' y='16' endx='161' endy='14' /><Platform x='-49' y='16' endx='-205' endy='20' /></Level>
